@@ -14,7 +14,7 @@
 <!-- OS - Windows -->
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 <!-- Editor - VScode -->
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 
 ## Github stats :
