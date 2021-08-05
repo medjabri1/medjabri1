@@ -18,12 +18,12 @@
 
 
 ## Github stats :
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&hide=issues&theme=react&border_radius=5)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/medjabri1)
 
 ## Streaks and contributions :
-[![Mohammed's Streak](https://github-readme-streak-stats.herokuapp.com?user=medjabri1&theme=react&border_radius=5)](https://github.com/medjabri1/medjabri1)
+[![My Github Streak](https://github-readme-streak-stats.herokuapp.com?user=medjabri1&theme=react)](https://github.com/medjabri1)
 
 ## Most used languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medjabri1&theme=react&langs_count=12&layout=compact&border_radius=5)](https://github.com/medjabri1/medjabri1)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medjabri1&theme=react&langs_count=12&layout=compact)](https://github.com/medjabri1)
 
 <p style="display:none" align="left"> <img src="https://komarev.com/ghpvc/?username=medjabri1&label=Profile%20views&color=0e75b6&style=flat" alt="medjabri1" /> </p>
