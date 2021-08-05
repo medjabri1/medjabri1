@@ -10,6 +10,10 @@
 <a href="https://instagram.com/med.jabri.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="med.jabri.1" height="30" width="40" /></a>
 </p>
 
+## Technologies & tools :
+![](https://img.shields.io/badge/OS-Windows>-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+
+
 ## Github stats :
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&hide=issues&theme=react&border_radius=5)
 
