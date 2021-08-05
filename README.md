@@ -11,7 +11,7 @@
 </p>
 
 ## Github stats :
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&theme=react&border_radius=5)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&theme=react&border_radius=5)
 
 ## Streaks and contributions :
 [![Mohammed's Streak](https://github-readme-streak-stats.herokuapp.com?user=medjabri1&theme=react&border_radius=5)](https://github.com/medjabri1/medjabri1)
