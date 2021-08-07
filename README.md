@@ -40,6 +40,11 @@
  ![](https://img.shields.io/badge/‎-Power%20BI-informational?style=flat&logo=powerbi&logoColor=white&color=e3bb86)
  ![](https://img.shields.io/badge/‎-MS%20Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=57bda2)
 
+ - ### Other Programming Languages :
+ ![](https://img.shields.io/badge/‎-C-informational?style=flat&logo=c&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-C%23-informational?style=flat&logo=csharp&logoColor=white&color=e3bb86)
+
 ## Github stats :
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/medjabri1)
 
