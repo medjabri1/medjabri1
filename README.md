@@ -7,11 +7,26 @@
 [![](https://img.shields.io/badge/‎-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=7658d1)](https://www.facebook.com/mjr.med/)
 
 ## Technologies & tools :
-<!-- OS - Windows -->
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-<!-- Editor - VScode -->
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+ - ### FrontEnd Dev :
+ ![](https://img.shields.io/badge/‎-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-CSS3-informational?style=flat&logo=css3&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-SASS-informational?style=flat&logo=sass&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-AJAX-informational?style=flat&logo=ajax&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Boostrap-informational?style=flat&logo=bootstrap&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-ReactJS-informational?style=flat&logo=react&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-VueJS-informational?style=flat&logo=vuedotjs&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Sockets-informational?style=flat&logo=socketdotio&logoColor=white&color=57bda2)
 
+ - ### BackEnd Dev :
+ ![](https://img.shields.io/badge/‎-PHP-informational?style=flat&logo=php&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-API-informational?style=flat&logo=fastapi&logoColor=white&color=e3bb86)
 
 ## Github stats :
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/medjabri1)
