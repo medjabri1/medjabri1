@@ -2,11 +2,9 @@
 ![Banner Image](./assets/banner.png)
 
 ## Connect with me :
-<p align="left">
-<a href="https://linkedin.com/in/mjr-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mjr-1" height="30" width="40" /></a>
-<a href="https://fb.com/mjr.med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mjr.med" height="30" width="40" /></a>
-<a href="https://instagram.com/med.jabri.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="med.jabri.1" height="30" width="40" /></a>
-</p>
+[![](https://img.shields.io/badge/‎-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=7658d1)](https://www.linkedin.com/in/mjr-1/)
+[![](https://img.shields.io/badge/‎-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=e3bb86)](https://www.instagram.com/med.jabri.1/)
+[![](https://img.shields.io/badge/‎-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=7658d1)](https://www.facebook.com/mjr.med/)
 
 ## Technologies & tools :
 <!-- OS - Windows -->
