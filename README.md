@@ -1,7 +1,5 @@
-<h1 align="left">Hi 👋, I'm Mohammed JABRI</h1>
-<h3 align="left">A passionate full-stack developer from Morocco</h3>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medjabri1" alt="medjabri1" /></a> </p> -->
+<!-- Banner Image -->
+![Banner Image](./assets/banner.png)
 
 ## Connect with me :
 <p align="left">
