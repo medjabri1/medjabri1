@@ -1,5 +1,7 @@
 <!-- Banner Image -->
-![Banner Image](./assets/banner.png)
+<a href="#banner_image">
+    <img id="banner_image" src="./assets/banner.png" alt="Banner image" />
+</a>
 
 ## Connect with me :
 [![](https://img.shields.io/badge/‎-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=7658d1)](https://www.linkedin.com/in/mjr-1/)
@@ -70,4 +72,4 @@
 ## Most used languages :
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medjabri1&theme=react&langs_count=12&layout=compact)](https://github.com/medjabri1)
 
-<p style="display:none" align="left"> <img src="https://komarev.com/ghpvc/?username=medjabri1&label=Profile%20views&color=0e75b6&style=flat" alt="medjabri1" /> </p>
+<img src="https://komarev.com/ghpvc/?username=medjabri1&label=Profile%20views&color=0e75b6&style=flat" alt="medjabri1" height="0" width="0" />
