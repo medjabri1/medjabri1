@@ -45,6 +45,22 @@
  ![](https://img.shields.io/badge/‎-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=57bda2)
  ![](https://img.shields.io/badge/‎-C%23-informational?style=flat&logo=csharp&logoColor=white&color=e3bb86)
 
+   - ### Tools :
+ ![](https://img.shields.io/badge/‎-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-Git-informational?style=flat&logo=git&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Postman-informational?style=flat&logo=postman&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-FileZilla-informational?style=flat&logo=filezilla&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-ArgoUML-informational?style=flat&logo=argouml&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Power%20Designer-informational?style=flat&logo=powerdesigner&logoColor=white&color=57bda2)
+ 
+ - ### UI Design :
+ ![](https://img.shields.io/badge/‎-Adobe%20Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Adobe%20Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-Adobe%20XD-informational?style=flat&logo=adobexd&logoColor=white&color=e3bb86)
+ ![](https://img.shields.io/badge/‎-Figma-informational?style=flat&logo=figma&logoColor=white&color=57bda2)
+
 ## Github stats :
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/medjabri1)
 
