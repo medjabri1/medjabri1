@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/‎-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=e3bb86)](https://www.instagram.com/med.jabri.1/)
 [![](https://img.shields.io/badge/‎-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=7658d1)](https://www.facebook.com/mjr.med/)
 
-## Technologies & tools :
+<!-- ## Technologies & tools :
  - ### FrontEnd Dev :
  ![](https://img.shields.io/badge/‎-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e3bb86)
  ![](https://img.shields.io/badge/‎-CSS3-informational?style=flat&logo=css3&logoColor=white&color=57bda2)
@@ -61,7 +61,7 @@
  ![](https://img.shields.io/badge/‎-Adobe%20Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=e3bb86)
  ![](https://img.shields.io/badge/‎-Adobe%20Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=57bda2)
  ![](https://img.shields.io/badge/‎-Adobe%20XD-informational?style=flat&logo=adobexd&logoColor=white&color=e3bb86)
- ![](https://img.shields.io/badge/‎-Figma-informational?style=flat&logo=figma&logoColor=white&color=57bda2)
+ ![](https://img.shields.io/badge/‎-Figma-informational?style=flat&logo=figma&logoColor=white&color=57bda2) -->
 
 ## Github stats :
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/medjabri1)
