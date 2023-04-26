@@ -63,8 +63,8 @@
  ![](https://img.shields.io/badge/‎-Adobe%20XD-informational?style=flat&logo=adobexd&logoColor=white&color=e3bb86)
  ![](https://img.shields.io/badge/‎-Figma-informational?style=flat&logo=figma&logoColor=white&color=57bda2) -->
 
-## Github stats :
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/medjabri1)
+<!-- ## Github stats :
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=medjabri1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/medjabri1) -->
 
 ## Streaks and contributions :
 [![My Github Streak](https://github-readme-streak-stats.herokuapp.com?user=medjabri1&theme=react)](https://github.com/medjabri1)
